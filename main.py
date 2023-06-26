@@ -14,7 +14,7 @@ API_TOKEN = '5673743724:AAHMtUjk7Nc3JTZfAH2CBuT-Vt1htKR5arI'
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 
-# Simple MemoryStorage for Dispather
+# Simple MemoryStorage for Dispatcher
 storage = MemoryStorage()
 
 # Initialize bot and dispatcher
